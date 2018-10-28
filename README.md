@@ -22,7 +22,7 @@ $ base58 --base64=BASE58_VAL
 or
 
 ```shell
-$ base64 --base58=BASE64_VAL
+$ base58 --base58=BASE64_VAL
 ```
 
 ### License
