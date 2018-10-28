@@ -14,5 +14,16 @@ $ cmake ..
 $ make
 ```
 
+### How to run
+
+```shell
+$ base58 --base64=BASE58_VAL
+```
+or
+
+```shell
+$ base64 --base58=BASE64_VAL
+```
+
 ### License
 MIT
